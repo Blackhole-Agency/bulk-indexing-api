@@ -1,6 +1,6 @@
 ## Introduction
 
-Développé par Nicolas de [Blackhole Agency](https://agence-seo-caen.fr), ce script amélioré vise à simplifier et automatiser le processus d'indexation des pages web sur Google. Grâce à cet outil, les utilisateurs peuvent soumettre en masse les URLs de leur site sans avoir à passer par l'interface manuelle de la Search Console.
+Développé par [Nicolas Brule](https://nicolas-brule.fr) de [Blackhole Agency](https://agence-seo-caen.fr), ce script amélioré vise à simplifier et automatiser le processus d'indexation des pages web sur Google. Grâce à cet outil, les utilisateurs peuvent soumettre en masse les URLs de leur site sans avoir à passer par l'interface manuelle de la Search Console.
 
 ## Prérequis
 
